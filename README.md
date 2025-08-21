@@ -49,7 +49,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/YourUsername/direct-forward-bot.git
+git clone https://github.com/LastPerson07/telegram-request-bot
 cd direct-forward-bot
 Create a virtual environment
 
