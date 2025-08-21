@@ -1,0 +1,19 @@
+# Ignore environment and secrets
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Logs
+*.log
+
+# IDE/editor configurations
+.vscode/
+.idea/
+*.swp
